@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CarlMau
 - 👀 I’m interested in CRM, ERP, CMS Systems.
 - 🌱 I’m currently learning Full Stack.
-- 💞️ I’m looking to collaborate on any project that lets me participate and lear.
+- 💞️ I’m looking to collaborate on any project that lets me participate and learn.
 - 📫 How to reach me via email.
 
 <!---
